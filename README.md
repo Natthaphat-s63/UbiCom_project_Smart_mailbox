@@ -1,15 +1,15 @@
 # UbiCom_project_Smart_mailbox
 
-Youtube: 
+- Youtube : 
 
 https://youtu.be/L6yo7AC0bOg
 
 
-Diagram :
+- Diagram :
 
 ![Untitled Sketch 2_bb](https://user-images.githubusercontent.com/87507926/163000407-9274e9af-fdba-405f-9856-786b329b4f1c.png)
 
-Overview :
+- Overview :
 
 ![85248](https://user-images.githubusercontent.com/87507926/163000584-eb2a3cee-4768-4afe-9309-b7799170c2f0.jpg)
 ![85249](https://user-images.githubusercontent.com/87507926/163000619-b342954c-aec8-42eb-bd1b-561d101c391b.jpg)
